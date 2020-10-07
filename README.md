@@ -24,6 +24,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Hosting
-```
 https://xenodochial-swanson-db6b3e.netlify.app
-```
